@@ -48,3 +48,7 @@ These strings:
 * Weight modifier function
 * FontWeight.Bold property
 * TextAlign.Justify property
+
+## Screenshot of the app
+<img width="351" alt="Screenshot 2024-01-29 at 01 31 48" src="https://github.com/Hitendra27/ComposeQuadrant/assets/73651340/ca8c47d8-083c-4be0-8dad-0e83d65abf94">
+
